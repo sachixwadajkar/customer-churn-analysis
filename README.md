@@ -24,6 +24,12 @@ This project analyzes customer churn behavior using SQL, Python, and Power BI to
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+---
+
 ## Key Business Insights
 - Month-to-month contracts showed the highest churn
 - Electronic check users had significantly higher churn rates
